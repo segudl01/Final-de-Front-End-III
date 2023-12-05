@@ -1,0 +1,17 @@
+.detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  margin-bottom: 20px;
+}
+.detail img {
+  width: 200px;
+}
+.detail h4 {
+  margin: 10px 0;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
